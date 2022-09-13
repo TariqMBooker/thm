@@ -7,3 +7,4 @@ burpsuite
 metasploit
 transport laye security
 nmap
+exploitdb
