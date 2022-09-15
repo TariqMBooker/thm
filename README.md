@@ -8,3 +8,4 @@ metasploit
 transport laye security
 nmap
 exploitdb
+kali linux
