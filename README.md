@@ -9,3 +9,6 @@ transport laye security
 nmap
 exploitdb
 kali linux
+dos
+ddos
+phishing
