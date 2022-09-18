@@ -5,7 +5,7 @@ NOTES -
 mitre att&ck navigator
 burpsuite
 metasploit
-transport laye security
+transport layer security
 nmap
 exploitdb
 kali linux
